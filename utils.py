@@ -16,3 +16,4 @@ def show_list(list_of_items):
         counter += 1
 
     return len(list_of_items)
+
